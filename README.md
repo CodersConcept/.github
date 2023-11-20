@@ -36,4 +36,5 @@ Implementação e manutenção contínua. Todos os serviços contam com monitora
 <img src="https://github.com/CodersConcept/.github/assets/39606289/96b6ab05-8caf-40b3-8eff-70bf79c75cf8" alt="Ícone atualizações" width="70" height="70" style="align: center">
 
 ## Como Podemos Ajudar
-Estamos comprometidos em entender suas necessidades e proporcionar soluções de software excepcionais que impulsionem o seu negócio. Entre em <a href="https://www.exemplo.com](https://codersconcept.com.br/" target="_blank">contato conosco</a> para uma consulta gratuita e descubra como podemos colaborar para o seu sucesso.
+Estamos comprometidos em entender suas necessidades e proporcionar soluções de software excepcionais que impulsionem o seu negócio. 
+Entre em <a href="https://codersconcept.com.br/" target="_blank">contato conosco</a> para uma consulta gratuita e descubra como podemos colaborar para o seu sucesso.
